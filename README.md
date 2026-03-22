@@ -1,4 +1,4 @@
-# Movie Ticket Booking Web Application
+# CineBook
 
 ## Overview
 This project is a complete Movie Ticket Booking Web Application built using the MERN stack (MongoDB, Express.js, Node.js, HTML, CSS, JavaScript). It allows users to register, log in, browse movies, select seats, and confirm bookings.
